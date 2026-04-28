@@ -21,7 +21,7 @@ Trading infrastructure, OMS, risk, execution pipelines.
 
 ### 📈 Quant Strategy
 Strategy research, factor work, portfolio construction.
-- [portfolio-distiller](https://github.com/zen-tradings/portfolio-distiller) — Distill scattered portfolios into 15–20 factor-scored holdings
+- [strategy_examples](https://github.com/zen-tradings/strategy_examples) — Strategy examples and references
 
 </td>
 </tr>
