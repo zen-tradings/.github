@@ -14,7 +14,7 @@ Benchmarks, evaluation harnesses, internal QA tooling.
 
 ### 🏗 Quant Infra
 Trading infrastructure, OMS, risk, execution pipelines.
-- [etf_active](https://github.com/zen-tradings/etf_active) — ETF active strategy framework (Strategy → OMS → RiskGate → Broker)
+- [[etf_active](https://github.com/zen-tradings/etf_active)](https://github.com/zen-tradings/infra_etf_active) — ETF active strategy framework (Strategy → OMS → RiskGate → Broker)
 
 </td>
 <td width="33%" valign="top">
