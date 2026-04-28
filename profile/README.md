@@ -6,7 +6,7 @@ Internal engineering directory. Repositories are grouped into three categories.
 <tr>
 <td width="33%" valign="top">
 
-### 🧪 Internal Eval & Operation
+### 🧪 Internal Eval & Harness
 Benchmarks, evaluation harnesses, internal QA tooling.
 - [search_api_comp](https://github.com/zen-tradings/search_api_comp) — Search API evaluation
 - [operation_researcher_info](https://github.com/zen-tradings/operation_researcher_info) — Operation researcher info
