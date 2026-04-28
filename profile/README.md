@@ -1,22 +1,19 @@
 # zen-tradings
-
 Internal engineering directory. Repositories are grouped into three categories.
-
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🧪 Internal Eval & Operation
 Benchmarks, evaluation harnesses, internal QA tooling.
-
 - [search_api_comp](https://github.com/zen-tradings/search_api_comp) — Search API evaluation
+- [operation_researcher_info](https://github.com/zen-tradings/operation_researcher_info) — Operation researcher info
 
 </td>
 <td width="33%" valign="top">
 
 ### 🏗 Quant Infra
 Trading infrastructure, OMS, risk, execution pipelines.
-
 - [etf_active](https://github.com/zen-tradings/etf_active) — ETF active strategy framework (Strategy → OMS → RiskGate → Broker)
 
 </td>
@@ -24,7 +21,6 @@ Trading infrastructure, OMS, risk, execution pipelines.
 
 ### 📈 Quant Strategy
 Strategy research, factor work, portfolio construction.
-
 - [portfolio-distiller](https://github.com/zen-tradings/portfolio-distiller) — Distill scattered portfolios into 15–20 factor-scored holdings
 
 </td>
