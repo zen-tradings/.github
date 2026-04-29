@@ -1,4 +1,4 @@
-can you help to add retail_skills_us under first category? # zen-tradings
+# zen-tradings
 Internal engineering directory. Repositories are grouped into three categories.
 <table>
 <tr>
@@ -7,7 +7,8 @@ Internal engineering directory. Repositories are grouped into three categories.
 Benchmarks, evaluation harnesses, internal QA tooling, shared team skills.
 - [search_api_comp](https://github.com/zen-tradings/search_api_comp) — Search API evaluation
 - [operation_researcher_info](https://github.com/zen-tradings/operation_researcher_info) — Operation researcher info
-- [team_skills](https://github.com/zen-tradings/team_skills) — Shared [SKILL.md](http://SKILL.md) files for team tooling
+- [team_skills](https://github.com/zen-tradings/team_skills) — Shared SKILL.md files for team tooling
+- [retail_skills_us](https://github.com/zen-tradings/retail-skills-us) — Retail skills (US)
 </td>
 <td width="33%" valign="top">
 ### 🏗 Quant Infra
