@@ -32,7 +32,7 @@ Trading infrastructure, OMS, risk, execution pipelines.
 Strategy research, factor work, portfolio construction.
 
 - [strategy_examples](https://github.com/zen-tradings/strategy_examples) — Strategy examples and references
-
+- [quant_research_lab](https://github.com/zen-tradings/quant_research_lab) — Quant research lab
 </td>
 </tr>
 </table>
