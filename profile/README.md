@@ -7,6 +7,7 @@ Internal engineering directory. Repositories are grouped into three categories.
 
 ### 🌐 Open Source (Quant Analytics)
 Public-facing repos and community contributions.
+- [cross-company-reasoning](https://github.com/zen-tradings/cross-company-reasoning) — Cross company reasoning
 - [search_api_comp](https://github.com/zen-tradings/search_api_comp) — Search API evaluation
 - [retail_skills_us](https://github.com/zen-tradings/retail-skills-us) — Retail skills (US)
 
