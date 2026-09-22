@@ -1,14 +1,21 @@
-<img width="200" height="200" alt="zen-trading-logo" src="https://github.com/user-attachments/assets/fc3d60f4-4b1c-4aa6-8c01-fb6c9898827d" />
 <!-- Commit to zen-tradings/.github at profile/README.md
-     Add logo-dark.svg beside it. Replace every «placeholder».
-     Delete any line whose repo is still private. -->
+     Replace every «placeholder». Delete any line whose repo is still private.
+     Swap the logo src for a file committed at profile/logo.png once you have one:
+     https://raw.githubusercontent.com/zen-tradings/.github/main/profile/logo.png -->
 
+<p align="center">
+  <a href="https://zentradings.com/">
+    <img src="https://github.com/user-attachments/assets/fc3d60f4-4b1c-4aa6-8c01-fb6c9898827d" alt="Zen Trading" width="180">
+  </a>
+</p>
 
-### Auditable quantamental research agents.
+<h3 align="center">Auditable quantamental research agents.</h3>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](«X_URL»)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/110921483)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](«NEWSLETTER_URL»)
+<p align="center">
+  <a href="«X_URL»"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/company/110921483"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="«NEWSLETTER_URL»"><img src="https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Newsletter"></a>
+</p>
 
 Core OSS projects:
 
