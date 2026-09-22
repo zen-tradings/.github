@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="zen-trading-logo" src="https://github.com/user-attachments/assets/fc3d60f4-4b1c-4aa6-8c01-fb6c9898827d" />
 <!-- Commit to zen-tradings/.github at profile/README.md
      Add logo-dark.svg beside it. Replace every «placeholder».
      Delete any line whose repo is still private. -->
