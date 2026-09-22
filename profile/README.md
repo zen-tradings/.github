@@ -12,9 +12,9 @@
 
 Core OSS projects:
 
-- [`zen-coding`](https://github.com/zen-tradings/zen-coding) – coding agent for quant research, with guardrails and per-session cost telemetry
-- [`coding-routing-benchmark`](https://github.com/zen-tradings/coding-routing-benchmark) – «what it measures, on what tasks»
-- [`zen-newsletter`](https://github.com/zen-tradings/zen-newsletter) – «what it is»
+- [`zen-coding`](https://github.com/zen-tradings/zen-coding) – coding agent for quant research, with guardrails, per-session cost telemetry, and evaluation across coding tasks
+- [`zen-newsletter`](https://github.com/zen-tradings/zen-newsletter) – fundamental analysis agent that researches companies and broad market conditions, then publishes the write-up
+- [`coding-routing-benchmark`](https://github.com/zen-tradings/coding-routing-benchmark) – benchmarks dynamic model routing, matching each quant development task to the model that handles it best
 
 Skills and connectors:
 
