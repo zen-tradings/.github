@@ -7,13 +7,13 @@
 ### Open-source agents for quant research.
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](«X_URL»)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([«LINKEDIN_URL»](https://www.linkedin.com/company/110921483))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/110921483)
 [![Newsletter](https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](«NEWSLETTER_URL»)
 
 Core OSS projects:
 
 - [`zen-coding`](https://github.com/zen-tradings/zen-coding) – coding agent for quant research, with guardrails, per-session cost telemetry, and evaluation across coding tasks
-- [`zen-newsletter`](https://github.com/zen-tradings/zen-newsletter) – fundamental analysis agent that researches companies and broad market conditions, then publishes the write-up
+- [`zen-fundamentals`](https://github.com/zen-tradings/zen-fundamentals) – fundamental analysis agent that monitors a thesis continuously, with source-prioritized retrieval, document processing, and cost-aware model routing
 - [`coding-routing-benchmark`](https://github.com/zen-tradings/coding-routing-benchmark) – benchmarks dynamic model routing, matching each quant development task to the model that handles it best
 
 Skills and connectors:
@@ -24,6 +24,6 @@ Skills and connectors:
 
 ## Learn more
 
-- [**Documentation**](«DOCS_URL») – guides for every Zen Trading project
+- [**Documentation**](https://zentrading-docs.onrender.com/) – the research agent, strategy pipeline, evaluation platform, and coding agent, documented as callable APIs
 - [Newsletter](«NEWSLETTER_URL») – research notes and release announcements
 - [Discussions](https://github.com/orgs/zen-tradings/discussions) – ask questions and share ideas
