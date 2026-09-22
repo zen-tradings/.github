@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://zentradings.com/">
-    <img src="https://github.com/user-attachments/assets/fc3d60f4-4b1c-4aa6-8c01-fb6c9898827d" alt="Zen Trading" width="150">
+    <img src="https://github.com/user-attachments/assets/fc3d60f4-4b1c-4aa6-8c01-fb6c9898827d" alt="Zen Trading" width="180">
   </a>
 </p>
 
@@ -19,9 +19,9 @@
 
 Core OSS projects:
 
-- [`zen-coding`](https://github.com/zen-tradings/zen-coding) – coding agent for quant research, with guardrails, per-session cost telemetry, and evaluation across coding tasks
-- [`zen-fundamentals`](https://github.com/zen-tradings/zen-fundamentals) – fundamental analysis agent that monitors a thesis continuously, with source-prioritized retrieval, document processing, and cost-aware model routing
-- [`coding-routing-benchmark`](https://github.com/zen-tradings/coding-routing-benchmark) – benchmarks dynamic model routing, matching each quant development task to the model that handles it best
+- [`zen-coding`](https://github.com/zen-tradings/zen-coding) – coding agent for quantamental research, with guardrails, per-session cost and latency traces, and evaluation across coding tasks
+- [`zen-fundamentals`](https://github.com/zen-tradings/zen-fundamentals) – fundamental analysis agent that monitors a thesis continuously, with source-prioritized retrieval and external document processing
+- [`coding-routing-benchmark`](https://github.com/zen-tradings/coding-routing-benchmark) – benchmarks model routing across quant development tasks, so each task reaches the model that handles it best
 
 Skills and connectors:
 
@@ -34,3 +34,11 @@ Skills and connectors:
 - [**Documentation**](https://zentrading-docs.onrender.com/) – the research agent, strategy pipeline, evaluation platform, and coding agent, documented as callable APIs
 - [Newsletter](«NEWSLETTER_URL») – research notes and release announcements
 - [Discussions](https://github.com/orgs/zen-tradings/discussions) – ask questions and share ideas
+
+## Research and strategy
+
+We open-source the infrastructure, not the alpha. Our quant research and strategy
+repositories stay private.
+
+For strategy research collaboration or investment inquiries, contact
+[yvette@zentradings.com](mailto:yvette@zentradings.com).
