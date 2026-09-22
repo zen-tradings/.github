@@ -7,7 +7,7 @@
 ### Open-source agents for quant research.
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](«X_URL»)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](«LINKEDIN_URL»)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([«LINKEDIN_URL»](https://www.linkedin.com/company/110921483))
 [![Newsletter](https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](«NEWSLETTER_URL»)
 
 Core OSS projects:
