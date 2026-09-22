@@ -4,7 +4,7 @@
 
 [![Zen Trading](https://raw.githubusercontent.com/zen-tradings/.github/main/profile/logo-dark.svg)](https://zentradings.com/)
 
-### Open-source agents for quant research.
+### Open-source agents for quantamental research.
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](«X_URL»)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/110921483)
