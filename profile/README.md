@@ -1,34 +1,29 @@
-# zen-tradings
-Internal engineering directory. Repositories are grouped into three categories.
-<table>
-<tr>
-<td width="33%" valign="top">
+<!-- Commit to zen-tradings/.github at profile/README.md
+     Add logo-dark.svg beside it. Replace every «placeholder».
+     Delete any line whose repo is still private. -->
 
-### 🌐 Open Source (Quant Analytics)
-Public-facing repos and community contributions.
-- [cross-company-reasoning](https://github.com/zen-tradings/cross-company-reasoning) — Cross company reasoning
-- [institutional-skills](https://github.com/zen-tradings/institutional-skills) — Institutional skills
-- [search_api_comp](https://github.com/zen-tradings/search_api_comp) — Search API evaluation
-- [retail_skills_us](https://github.com/zen-tradings/retail-skills-us) — Retail skills (US)
-</td>
-<td width="33%" valign="top">
+[![Zen Trading](https://raw.githubusercontent.com/zen-tradings/.github/main/profile/logo-dark.svg)](https://zentradings.com/)
 
-### 🏗 Quant Infra
-Trading infrastructure, OMS, risk, execution pipelines.
-- [finrl-x-infra](https://github.com/zen-tradings/finrl-x-infra) — FinRL-X infra
-- [infra_etf_active](https://github.com/zen-tradings/infra_etf_active) — ETF active strategy framework (Strategy → OMS → RiskGate → Broker)
-</td>
-<td width="33%" valign="top">
+### Open-source agents for quant research.
 
-### 📈 Quant Strategy
-Strategy research, factor work, portfolio construction.
-- [quant-research-experiment](https://github.com/zen-tradings/quant-research-experiment) — Quant research experiment
-</td>
-</tr>
-</table>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](«X_URL»)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](«LINKEDIN_URL»)
+[![Newsletter](https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](«NEWSLETTER_URL»)
 
----
-**Conventions**
-- Each repo's README starts with: `Category` · `Status` · `Owner` · `Depends on`
-- Tag every repo with a topic: `open-source`, `quant-infra`, or `quant-strategy`
-- Browse by category: [Open Source](https://github.com/orgs/zen-tradings/repositories?q=topic:open-source) · [Quant Infra](https://github.com/orgs/zen-tradings/repositories?q=topic:quant-infra) · [Quant Strategy](https://github.com/orgs/zen-tradings/repositories?q=topic:quant-strategy)
+Core OSS projects:
+
+- [`zen-coding`](https://github.com/zen-tradings/zen-coding) – coding agent for quant research, with guardrails and per-session cost telemetry
+- [`coding-routing-benchmark`](https://github.com/zen-tradings/coding-routing-benchmark) – «what it measures, on what tasks»
+- [`zen-newsletter`](https://github.com/zen-tradings/zen-newsletter) – «what it is»
+
+Skills and connectors:
+
+- [`retail-skills-us`](https://github.com/zen-tradings/retail-skills-us) – quant strategy and tax-loss-harvesting skills for retail investors
+- [`portfolio-distiller`](https://github.com/zen-tradings/portfolio-distiller) – distills a scattered portfolio into 15–20 factor-scored holdings with a tax-aware transition plan
+- [`eia-mcp`](https://github.com/zen-tradings/eia-mcp) – MCP server for U.S. Energy Information Administration data
+
+## Learn more
+
+- [**Documentation**](«DOCS_URL») – guides for every Zen Trading project
+- [Newsletter](«NEWSLETTER_URL») – research notes and release announcements
+- [Discussions](https://github.com/orgs/zen-tradings/discussions) – ask questions and share ideas
