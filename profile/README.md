@@ -2,7 +2,7 @@
      Add logo-dark.svg beside it. Replace every «placeholder».
      Delete any line whose repo is still private. -->
 
-[![Zen Trading](https://raw.githubusercontent.com/zen-tradings/.github/main/profile/logo-dark.svg)](https://zentradings.com/)
+[![Zen Trading](<img width="512" height="512" alt="light" src="https://github.com/user-attachments/assets/abbd0340-aba5-4bcb-88e1-13a069d84c9c" />)](https://zentradings.com/)
 
 ### Open-source agents for quantamental research.
 
