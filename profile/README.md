@@ -21,7 +21,7 @@ Core OSS projects:
 
 - [`zen-coding`](https://github.com/zen-tradings/zen-coding) – coding agent for quantamental research, with guardrails, per-session cost and latency traces, and evaluation across coding tasks
 - [`zen-fundamentals`](https://github.com/zen-tradings/zen-fundamentals) – fundamental analysis agent that monitors a thesis continuously, with source-prioritized retrieval and external document processing
-- [`zen-rft`](https://github.com/zen-tradings/zen-rft) – reinforcement fine-tuning for quant research models, with «reward/grader details» and «what it trains the model to do»
+- [`zen-rft`](https://github.com/zen-tradings/zen-rft) – reinforcement fine-tuning for small open-weight models on financial tasks, with code-checkable graders that serve as the training reward, the eval metric, and the evidence for when a cheap model can replace a frontier one
 - [`coding-routing-benchmark`](https://github.com/zen-tradings/coding-routing-benchmark) – benchmarks model routing across quant development tasks, so each task reaches the model that handles it best
 
 Skills and connectors:
