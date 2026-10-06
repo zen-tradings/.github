@@ -3,11 +3,6 @@
      Swap the logo src for a file committed at profile/logo.png once you have one:
      https://raw.githubusercontent.com/zen-tradings/.github/main/profile/logo.png -->
 
-<p align="center">
-  <a href="https://zentradings.com/">
-    <img src="https://github.com/user-attachments/assets/fc3d60f4-4b1c-4aa6-8c01-fb6c9898827d" alt="Zen Trading" width="180">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://zentradings.com/">
