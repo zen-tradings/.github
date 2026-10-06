@@ -1,7 +1,7 @@
 <!-- Commit to zen-tradings/.github at profile/README.md
      Replace every «placeholder». Delete any line whose repo is still private.
      Swap the logo src for a file committed at profile/logo.png once you have one:
-     https://raw.githubusercontent.com/zen-tradings/.github/main/profile/logo.png -->
+     -->
 
 
 <p align="center">
