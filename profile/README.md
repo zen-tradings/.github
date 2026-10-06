@@ -9,6 +9,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://zentradings.com/">
+    <img src="./banner.png" alt="Zen Trading cosmic orbit banner" width="100%">
+  </a>
+</p>
+
 <h3 align="center">Auditable quantamental research agents.</h3>
 
 <p align="center">
