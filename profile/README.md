@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://zentradings.com/">
-    <img src="./banner.png" alt="Zen Trading cosmic orbit banner" width="100%">
+    src="https://raw.githubusercontent.com/zen-tradings/.github/main/profile/banner.png"
   </a>
 </p>
 
